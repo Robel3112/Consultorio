@@ -1,0 +1,63 @@
+h1{margin: 30px; text-align: left; font-size: 45px; color: darkblue;text-shadow: 4px 4px 4px #1C6EA4}
+
+
+		div.contenedor{
+			background: #E8D1FF;
+		align-content: center;
+		text-align: center;
+		margin: auto;
+		border: solid;
+		height: 650px;
+		width: 80%;
+			}
+			div.cabecera{
+		padding-left: 10px;
+			width: 90%;
+			float: left;
+			}
+			div.form{
+			font-family: Verdana, Geneva, sans-serif;
+			font-size: 16px;
+			background: #ebebeb;
+			
+			display:inline-block;
+			box-shadow: 2px;
+			padding: 10px;
+			
+			border-radius: 18px;
+			box-shadow: 2px;
+			
+			margin: 30px;
+			margin-right: 90px;
+			text-align: left;
+			height: 55%;
+			width: 40%;
+			overflow-y: scroll;
+			}
+						
+			div.titulo{
+				height: 10%;
+				width: 400px;
+				float: left;
+			}
+
+			div.botones {
+			background:#fff; color:#000; display:inline-block; padding:10px;
+			text-decoration:none; border-radius:5px; -webkit-border-radius:5px;
+			font:normal 16px arial;margin: 5px; float: left; 
+			
+			}
+			input{
+				
+			}
+				div.link{
+		font-family: Verdana, Geneva, sans-serif;
+		text-align: left;
+		font-size: 18px;
+		margin-left: 60px;
+		margin-bottom: 80px;
+		margin-top: 20px;
+		margin-right: 800px;
+	}
+			
+		

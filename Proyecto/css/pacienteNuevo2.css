@@ -1,0 +1,39 @@
+	h1{margin: 30px; text-align: left; font-size: 45px; color: darkblue;text-shadow: 4px 4px 4px #1C6EA4}
+
+	div.contenedor{
+		background: #E8D1FF;
+		align-content: center;
+		text-align: center;
+		margin: auto;
+		border: solid;
+		height: 650px;
+		width: 80%;
+		}
+	div.cabecera{
+			padding-left: 10px;
+			width: 90%;
+			float: left;
+	}
+	div.form{
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 25px;
+		background: #ebebeb;
+		margin-top: 30px;
+		box-shadow: 2px;
+		display:inline-block;
+		text-align: center;
+		height: 55%;
+		width: 40%;
+			}
+	div.link{
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 18px;
+		margin-left: 10px;
+		margin-bottom: 10px;
+		margin-top: 60px;
+		margin-right: 900px;
+		
+			}
+
+	
+	

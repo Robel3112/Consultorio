@@ -1,0 +1,40 @@
+	h1{margin: 30px; text-align: left; font-size: 45px; color: darkblue;text-shadow: 4px 4px 4px #1C6EA4}
+
+	div.contenedor{
+		background: #E8D1FF;
+		
+		margin: auto;
+		border: solid;
+		height: 650px;
+		width: 80%;
+		}
+	div.cabecera{
+			margin-left: 10px;
+			width: 100%;
+			float: left;
+	}
+	div.form{
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 25px;
+		background: #DBDBFF;
+		
+		box-shadow: 2px;
+		border: solid;
+		float: right;
+		margin: 30px;
+		margin-right: 165px;
+		text-align: center;
+			height: 25%;
+			width: 80%;
+			}
+	div.link{
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 18px;
+		float: left;
+		margin: 20px;
+		margin-top: 20px;
+		height: 15%;
+		width: 15%;
+			}
+	
+	}
